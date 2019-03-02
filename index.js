@@ -17,8 +17,4 @@ function sayHiToGrandma(string) {
   function sayHiToGrandma(string) {
     if (string===shout(string))
   return ("YES INDEED!") 
-  }
-  
-
-
 }
