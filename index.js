@@ -10,4 +10,6 @@ function logShout(string) {
 function logWhisper(string) {
   console.log('hello'.toLowerCase())
 }
-function 
+function sayHiToGrandma(string) {
+  return
+}
